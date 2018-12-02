@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/PacktPublishing/Cloud-Native-programming-with-Golang/chapter02/myevents/src/eventsservice/rest"
-	"github.com/PacktPublishing/Cloud-Native-programming-with-Golang/chapter02/myevents/src/lib/configuration"
-	"github.com/PacktPublishing/Cloud-Native-programming-with-Golang/chapter02/myevents/src/lib/persistence/dblayer"
+	"github.com/amaumba1/Cloud-Native-programming-with-Golang/chapter02/myevents/src/eventsservice/rest"
+	"github.com/amaumba1/Cloud-Native-programming-with-Golang/chapter02/myevents/src/lib/configuration"
+	"github.com/amaumba1/Cloud-Native-programming-with-Golang/chapter02/myevents/src/lib/persistence/dblayer"
 )
 
 func main() {
